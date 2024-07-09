@@ -1,0 +1,5 @@
+com.assignment.simplenotess.test.app-core-1.6.1-0 C:\Users\accof\.gradle\caches\transforms-3\9e33e886f8189f7010e2812a1368ade9\transformed\core-1.6.1\res
+com.assignment.simplenotess.test.app-androidTest-1 P:\simplenotes\app\build\generated\res\resValues\androidTest\debug
+com.assignment.simplenotess.test.app-mergeDebugAndroidTestResources-2 P:\simplenotes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.assignment.simplenotess.test.app-mergeDebugAndroidTestResources-3 P:\simplenotes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.assignment.simplenotess.test.app-merged_res-4 P:\simplenotes\app\build\intermediates\merged_res\debugAndroidTest

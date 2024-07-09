@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.assignment.simplenotess.app-mergeDebugResources-51:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\accof\\.gradle\\caches\\transforms-3\\0e3b4152cc6f13f7bf3ca93b8ac506c3\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\accof\\.gradle\\caches\\transforms-3\\aa7ef22ef75a290f5af11ed1edb2e0e4\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

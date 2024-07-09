@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#005B83</color>
+    <color name="primary">#2380FB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">simplenotes</string>
+    <string name="fabicon">fabicon</string>
+    <string name="logout">Logout</string>
+    <string name="note_content">Note content</string>
+    <string name="save">Save</string>
+    <string name="sign_in">"Sign In "</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="start_typing">Start typing</string>
+    <string name="web_client_id">883007593604-i4venmfh53oqdp5aia4fohdkm4ok638p.apps.googleusercontent.com</string>
+    <style name="Base.Theme.Simplenotes" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/primary</item>
+    </style>
+    <style name="Theme.Simplenotes" parent="Base.Theme.Simplenotes"/>
+</resources>

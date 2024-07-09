@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\accof\\.gradle\\daemon\\8.0\\com.assignment.simplenotess.app-mergeDebugResources-52:\\layout\\fragment_notes_list.xml",
+        "source": "C:\\Users\\accof\\.gradle\\daemon\\8.0\\com.assignment.simplenotess.app-main-55:\\layout\\fragment_notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\accof\\.gradle\\daemon\\8.0\\com.assignment.simplenotess.app-mergeDebugResources-52:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\accof\\.gradle\\daemon\\8.0\\com.assignment.simplenotess.app-main-55:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\accof\\.gradle\\daemon\\8.0\\com.assignment.simplenotess.app-mergeDebugResources-52:\\layout\\fragment_notes.xml",
+        "source": "C:\\Users\\accof\\.gradle\\daemon\\8.0\\com.assignment.simplenotess.app-main-55:\\layout\\fragment_notes.xml"
+    },
+    {
+        "merged": "com.assignment.simplenotess.app-mergeDebugResources-52:/layout/fragment_login.xml",
+        "source": "com.assignment.simplenotess.app-main-55:/layout/fragment_login.xml"
+    }
+]

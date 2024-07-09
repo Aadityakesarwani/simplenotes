@@ -1,0 +1,3 @@
+com.assignment.simplenotess.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

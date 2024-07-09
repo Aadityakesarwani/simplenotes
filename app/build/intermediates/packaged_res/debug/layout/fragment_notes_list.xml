@@ -1,0 +1,39 @@
+
+                                                       
+                                                   
+
+    
+                 
+                            
+                                                                          
+           
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        tools:context=".NotesListFragment" android:tag="layout/fragment_notes_list_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            tools:listitem="@layout/item_note" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabAddNote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="50dp"
+            android:backgroundTint="@color/primary"
+            android:contentDescription="@string/fabicon"
+            android:src="@drawable/ic_add"
+            android:tint="@android:color/white"
+            app:fabCustomSize="70dp"
+            app:maxImageSize="40dp"
+            app:layout_anchor="@id/recyclerView"
+            app:layout_anchorGravity="bottom|end" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+         
